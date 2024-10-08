@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Vidya
 #### Decoding Data for Business Excellence
 
-I have 12+yrs of experience in Data analytics working currently as Senior Management Consultant solving business problems into data-driven problems and help build solutions.
+I have 13+yrs of experience in Data Science working currently as Senior Data Scientist solving business problems into data-driven problems and help build solutions.
 Worked on different projects in industries like Fintech's , Banks & Insurance firms.
 
 **Data Pre-processing**: NumPy, Pandas.  
